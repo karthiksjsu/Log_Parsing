@@ -1,0 +1,218 @@
+0 INF 01/01/1970 00:06:36 <sci_ccFlow> [UNIT=1] Operation connect: E20<->W20, Both Z motors P2H after successful, ZM=12530 YM=604673, ZF=11969 YF=360270
+1 INF 01/01/1970 00:07:02 <sci_dcFlow> [UNIT=1] Operation disconnect: E20<->W20, Both Z motors P2H after successful, ZM=12576 YM=648720, ZF=11961 YF=316240
+2 INF 01/01/1970 00:07:34 <sci_ccFlow> [UNIT=1] Operation connect: E20<->W60, Both Z motors P2H after successful, ZM=12543 YM=604667, ZF=11968 YF=450467
+3 INF 01/01/1970 00:07:59 <sci_dcFlow> [UNIT=1] Operation disconnect: E20<->W60, Both Z motors P2H after successful, ZM=12583 YM=648720, ZF=11959 YF=316244
+4 INF 01/01/1970 00:08:32 <sci_ccFlow> [UNIT=1] Operation connect: E20<->W100, Both Z motors P2H after successful, ZM=12554 YM=604670, ZF=11969 YF=540670
+5 INF 01/01/1970 00:08:59 <sci_dcFlow> [UNIT=1] Operation disconnect: E20<->W100, Both Z motors P2H after successful, ZM=12590 YM=648719, ZF=11959 YF=316244
+6 INF 01/01/1970 00:09:36 <sci_ccFlow> [UNIT=1] Operation connect: E60<->W20, Both Z motors P2H after successful, ZM=12531 YM=514490, ZF=11970 YF=360268
+7 INF 01/01/1970 00:10:02 <sci_dcFlow> [UNIT=1] Operation disconnect: E60<->W20, Both Z motors P2H after successful, ZM=12577 YM=648708, ZF=11960 YF=316242
+8 INF 01/01/1970 00:10:34 <sci_ccFlow> [UNIT=1] Operation connect: E60<->W60, Both Z motors P2H after successful, ZM=12538 YM=514476, ZF=11969 YF=450463
+9 INF 01/01/1970 00:11:01 <sci_dcFlow> [UNIT=1] Operation disconnect: E60<->W60, Both Z motors P2H after successful, ZM=12587 YM=648722, ZF=11959 YF=316243
+10 INF 01/01/1970 00:11:33 <sci_ccFlow> [UNIT=1] Operation connect: E60<->W100, Both Z motors P2H after successful, ZM=12545 YM=514474, ZF=11973 YF=540665
+11 INF 01/01/1970 00:12:00 <sci_dcFlow> [UNIT=1] Operation disconnect: E60<->W100, Both Z motors P2H after successful, ZM=12593 YM=648723, ZF=11959 YF=316242
+12 INF 01/01/1970 00:12:32 <sci_ccFlow> [UNIT=1] Operation connect: E100<->W20, Both Z motors P2H after successful, ZM=12524 YM=424278, ZF=11969 YF=360267
+13 INF 01/01/1970 00:13:00 <sci_dcFlow> [UNIT=1] Operation disconnect: E100<->W20, Both Z motors P2H after successful, ZM=12578 YM=648724, ZF=11957 YF=316238
+14 INF 01/01/1970 00:13:33 <sci_ccFlow> [UNIT=1] Operation connect: E100<->W60, Both Z motors P2H after successful, ZM=12533 YM=424273, ZF=11969 YF=450467
+15 INF 01/01/1970 00:14:00 <sci_dcFlow> [UNIT=1] Operation disconnect: E100<->W60, Both Z motors P2H after successful, ZM=12590 YM=648721, ZF=11957 YF=316239
+16 INF 01/01/1970 00:14:32 <sci_ccFlow> [UNIT=1] Operation connect: E100<->W100, Both Z motors P2H after successful, ZM=12539 YM=424270, ZF=11973 YF=540666
+17 INF 01/01/1970 00:14:58 <sci_dcFlow> [UNIT=1] Operation disconnect: E100<->W100, Both Z motors P2H after successful, ZM=12595 YM=648722, ZF=11957 YF=316241
+18 INF 01/01/1970 00:16:40 <sci_ccFlow> [UNIT=1] Operation connect: E148<->W148, Both Z motors P2H after successful, ZM=12550 YM=604673, ZF=11960 YF=899472
+19 INF 01/01/1970 00:17:05 <sci_dcFlow> [UNIT=1] Operation disconnect: E148<->W148, Both Z motors P2H after successful, ZM=12595 YM=648723, ZF=11953 YF=943509
+20 INF 01/01/1970 00:17:36 <sci_ccFlow> [UNIT=1] Operation connect: E148<->W188, Both Z motors P2H after successful, ZM=12558 YM=604671, ZF=11962 YF=809272
+21 INF 01/01/1970 00:18:06 <sci_dcFlow> [UNIT=1] Operation disconnect: E148<->W188, Both Z motors P2H after successful, ZM=12601 YM=648724, ZF=11954 YF=943491
+22 INF 01/01/1970 00:18:39 <sci_ccFlow> [UNIT=1] Operation connect: E148<->W228, Both Z motors P2H after successful, ZM=12566 YM=604671, ZF=11970 YF=719079
+23 INF 01/01/1970 00:19:05 <sci_dcFlow> [UNIT=1] Operation disconnect: E148<->W228, Both Z motors P2H after successful, ZM=12604 YM=648724, ZF=11954 YF=943507
+24 INF 01/01/1970 00:19:36 <sci_ccFlow> [UNIT=1] Operation connect: E188<->W148, Both Z motors P2H after successful, ZM=12526 YM=514472, ZF=11967 YF=899474
+25 INF 01/01/1970 00:20:03 <sci_dcFlow> [UNIT=1] Operation disconnect: E188<->W148, Both Z motors P2H after successful, ZM=12601 YM=648723, ZF=11957 YF=943500
+26 INF 01/01/1970 00:20:36 <sci_ccFlow> [UNIT=1] Operation connect: E188<->W188, Both Z motors P2H after successful, ZM=12538 YM=514471, ZF=11970 YF=809276
+27 INF 01/01/1970 00:21:01 <sci_dcFlow> [UNIT=1] Operation disconnect: E188<->W188, Both Z motors P2H after successful, ZM=12607 YM=648722, ZF=11958 YF=943509
+28 INF 01/01/1970 00:21:33 <sci_ccFlow> [UNIT=1] Operation connect: E188<->W228, Both Z motors P2H after successful, ZM=12545 YM=514474, ZF=11978 YF=719081
+29 INF 01/01/1970 00:22:01 <sci_dcFlow> [UNIT=1] Operation disconnect: E188<->W228, Both Z motors P2H after successful, ZM=12607 YM=648721, ZF=11958 YF=943508
+30 INF 01/01/1970 00:22:34 <sci_ccFlow> [UNIT=1] Operation connect: E228<->W148, Both Z motors P2H after successful, ZM=12500 YM=424288, ZF=11969 YF=899474
+31 INF 01/01/1970 00:23:01 <sci_dcFlow> [UNIT=1] Operation disconnect: E228<->W148, Both Z motors P2H after successful, ZM=12603 YM=648721, ZF=11960 YF=943507
+32 INF 01/01/1970 00:23:33 <sci_ccFlow> [UNIT=1] Operation connect: E228<->W188, Both Z motors P2H after successful, ZM=12523 YM=424272, ZF=11973 YF=809274
+33 INF 01/01/1970 00:24:00 <sci_dcFlow> [UNIT=1] Operation disconnect: E228<->W188, Both Z motors P2H after successful, ZM=12609 YM=648720, ZF=11960 YF=943504
+34 INF 01/01/1970 00:24:32 <sci_ccFlow> [UNIT=1] Operation connect: E228<->W228, Both Z motors P2H after successful, ZM=12533 YM=424274, ZF=11979 YF=719283
+35 INF 01/01/1970 00:24:59 <sci_dcFlow> [UNIT=1] Operation disconnect: E228<->W228, Both Z motors P2H after successful, ZM=12609 YM=648719, ZF=11961 YF=943504
+36 INF 01/01/1970 00:43:22 <sci_ccFlow> [UNIT=1] Operation connect: 1ae1<->1aw1, Both Z motors P2H after successful, ZM=12558 YM=646483, ZF=11964 YF=318447
+37 INF 01/01/1970 00:43:47 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae1<->1aw1, Both Z motors P2H after successful, ZM=12577 YM=648716, ZF=11959 YF=316269
+38 INF 01/01/1970 00:44:17 <sci_ccFlow> [UNIT=1] Operation connect: 1ae1<->1aw40, Both Z motors P2H after successful, ZM=12570 YM=646480, ZF=11970 YF=404268
+39 INF 01/01/1970 00:44:42 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae1<->1aw40, Both Z motors P2H after successful, ZM=12590 YM=648713, ZF=11960 YF=316243
+40 INF 01/01/1970 00:45:14 <sci_ccFlow> [UNIT=1] Operation connect: 1ae40<->1aw1, Both Z motors P2H after successful, ZM=12531 YM=560671, ZF=11961 YF=318477
+41 INF 01/01/1970 00:45:41 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae40<->1aw1, Both Z motors P2H after successful, ZM=12576 YM=648724, ZF=11958 YF=316265
+42 INF 01/01/1970 00:46:12 <sci_ccFlow> [UNIT=1] Operation connect: 1ae40<->1aw40, Both Z motors P2H after successful, ZM=12544 YM=560671, ZF=11969 YF=404266
+43 INF 01/01/1970 00:46:36 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae40<->1aw40, Both Z motors P2H after successful, ZM=12589 YM=648718, ZF=11957 YF=316240
+44 INF 01/01/1970 00:47:07 <sci_ccFlow> [UNIT=1] Operation connect: 1ae20<->1aw20, Both Z motors P2H after successful, ZM=12538 YM=604674, ZF=11970 YF=360270
+45 INF 01/01/1970 00:47:32 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae20<->1aw20, Both Z motors P2H after successful, ZM=12582 YM=648720, ZF=11961 YF=316242
+46 INF 01/01/1970 00:48:04 <sci_ccFlow> [UNIT=1] Operation connect: 1ae41<->1aw1, Both Z motors P2H after successful, ZM=12534 YM=558476, ZF=11961 YF=318473
+47 INF 01/01/1970 00:48:29 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae41<->1aw1, Both Z motors P2H after successful, ZM=12577 YM=648725, ZF=11960 YF=316269
+48 INF 01/01/1970 00:49:01 <sci_ccFlow> [UNIT=1] Operation connect: 1ae41<->1aw40, Both Z motors P2H after successful, ZM=12545 YM=558470, ZF=11970 YF=404267
+49 INF 01/01/1970 00:49:27 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae41<->1aw40, Both Z motors P2H after successful, ZM=12589 YM=648719, ZF=11960 YF=316245
+50 INF 01/01/1970 00:49:59 <sci_ccFlow> [UNIT=1] Operation connect: 1ae80<->1aw1, Both Z motors P2H after successful, ZM=12526 YM=470472, ZF=11960 YF=318445
+51 INF 01/01/1970 00:50:24 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae80<->1aw1, Both Z motors P2H after successful, ZM=12577 YM=648721, ZF=11959 YF=316268
+52 INF 01/01/1970 00:51:03 <sci_ccFlow> [UNIT=1] Operation connect: 1ae80<->1aw40, Both Z motors P2H after successful, ZM=12535 YM=470470, ZF=11970 YF=404266
+53 INF 01/01/1970 00:51:31 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae80<->1aw40, Both Z motors P2H after successful, ZM=12591 YM=648720, ZF=11959 YF=316242
+54 INF 01/01/1970 00:52:03 <sci_ccFlow> [UNIT=1] Operation connect: 1ae60<->1aw20, Both Z motors P2H after successful, ZM=12542 YM=514474, ZF=11970 YF=360269
+55 INF 01/01/1970 00:52:29 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae60<->1aw20, Both Z motors P2H after successful, ZM=12582 YM=648722, ZF=11960 YF=316243
+56 INF 01/01/1970 00:53:01 <sci_ccFlow> [UNIT=1] Operation connect: 1ae81<->1aw1, Both Z motors P2H after successful, ZM=12539 YM=468277, ZF=11959 YF=318444
+57 INF 01/01/1970 00:53:27 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae81<->1aw1, Both Z motors P2H after successful, ZM=12577 YM=648721, ZF=11959 YF=316267
+58 INF 01/01/1970 00:53:59 <sci_ccFlow> [UNIT=1] Operation connect: 1ae81<->1aw40, Both Z motors P2H after successful, ZM=12542 YM=468276, ZF=11971 YF=404263
+59 INF 01/01/1970 00:54:25 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae81<->1aw40, Both Z motors P2H after successful, ZM=12591 YM=648719, ZF=11958 YF=316243
+60 INF 01/01/1970 00:54:58 <sci_ccFlow> [UNIT=1] Operation connect: 1ae130<->1aw1, Both Z motors P2H after successful, ZM=12513 YM=358274, ZF=11960 YF=318471
+61 INF 01/01/1970 00:55:24 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae130<->1aw1, Both Z motors P2H after successful, ZM=12577 YM=648724, ZF=11957 YF=316269
+62 INF 01/01/1970 00:55:56 <sci_ccFlow> [UNIT=1] Operation connect: 1ae130<->1aw40, Both Z motors P2H after successful, ZM=12511 YM=358289, ZF=11972 YF=404268
+63 INF 01/01/1970 00:56:24 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae130<->1aw40, Both Z motors P2H after successful, ZM=12591 YM=648718, ZF=11957 YF=316243
+64 INF 01/01/1970 00:56:55 <sci_ccFlow> [UNIT=1] Operation connect: 1ae100<->1aw20, Both Z motors P2H after successful, ZM=12533 YM=424276, ZF=11970 YF=360268
+65 INF 01/01/1970 00:57:22 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae100<->1aw20, Both Z motors P2H after successful, ZM=12584 YM=648724, ZF=11957 YF=316242
+66 INF 01/01/1970 00:57:53 <sci_ccFlow> [UNIT=1] Operation connect: 1ae1<->1aw41, Both Z motors P2H after successful, ZM=12571 YM=646485, ZF=11969 YF=406469
+67 INF 01/01/1970 00:58:19 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae1<->1aw41, Both Z motors P2H after successful, ZM=12593 YM=648712, ZF=11960 YF=316243
+68 INF 01/01/1970 00:58:50 <sci_ccFlow> [UNIT=1] Operation connect: 1ae1<->1aw80, Both Z motors P2H after successful, ZM=12581 YM=646484, ZF=11966 YF=494473
+69 INF 01/01/1970 00:59:17 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae1<->1aw80, Both Z motors P2H after successful, ZM=12604 YM=648711, ZF=11960 YF=316242
+70 INF 01/01/1970 00:59:49 <sci_ccFlow> [UNIT=1] Operation connect: 1ae40<->1aw41, Both Z motors P2H after successful, ZM=12547 YM=560671, ZF=11967 YF=406473
+71 INF 01/01/1970 01:00:14 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae40<->1aw41, Both Z motors P2H after successful, ZM=12593 YM=648719, ZF=11958 YF=316242
+72 INF 01/01/1970 01:00:45 <sci_ccFlow> [UNIT=1] Operation connect: 1ae40<->1aw80, Both Z motors P2H after successful, ZM=12559 YM=560676, ZF=11966 YF=494469
+73 INF 01/01/1970 01:01:11 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae40<->1aw80, Both Z motors P2H after successful, ZM=12603 YM=648722, ZF=11958 YF=316240
+74 INF 01/01/1970 01:01:43 <sci_ccFlow> [UNIT=1] Operation connect: 1ae20<->1aw60, Both Z motors P2H after successful, ZM=12555 YM=604671, ZF=11968 YF=450467
+75 INF 01/01/1970 01:02:09 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae20<->1aw60, Both Z motors P2H after successful, ZM=12599 YM=648720, ZF=11960 YF=316244
+76 INF 01/01/1970 01:02:40 <sci_ccFlow> [UNIT=1] Operation connect: 1ae41<->1aw41, Both Z motors P2H after successful, ZM=12551 YM=558472, ZF=11969 YF=406469
+77 INF 01/01/1970 01:03:06 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae41<->1aw41, Both Z motors P2H after successful, ZM=12594 YM=648722, ZF=11960 YF=316243
+78 INF 01/01/1970 01:03:39 <sci_ccFlow> [UNIT=1] Operation connect: 1ae41<->1aw80, Both Z motors P2H after successful, ZM=12563 YM=558474, ZF=11969 YF=494462
+79 INF 01/01/1970 01:04:07 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae41<->1aw80, Both Z motors P2H after successful, ZM=12604 YM=648721, ZF=11960 YF=316242
+80 INF 01/01/1970 01:04:39 <sci_ccFlow> [UNIT=1] Operation connect: 1ae80<->1aw41, Both Z motors P2H after successful, ZM=12543 YM=470470, ZF=11969 YF=406470
+81 INF 01/01/1970 01:05:06 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae80<->1aw41, Both Z motors P2H after successful, ZM=12593 YM=648722, ZF=11958 YF=316240
+82 INF 01/01/1970 01:05:38 <sci_ccFlow> [UNIT=1] Operation connect: 1ae80<->1aw80, Both Z motors P2H after successful, ZM=12545 YM=470472, ZF=11969 YF=494468
+83 INF 01/01/1970 01:06:04 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae80<->1aw80, Both Z motors P2H after successful, ZM=12605 YM=648721, ZF=11958 YF=316242
+84 INF 01/01/1970 01:06:36 <sci_ccFlow> [UNIT=1] Operation connect: 1ae60<->1aw60, Both Z motors P2H after successful, ZM=12550 YM=514470, ZF=11970 YF=450464
+85 INF 01/01/1970 01:07:02 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae60<->1aw60, Both Z motors P2H after successful, ZM=12599 YM=648722, ZF=11960 YF=316241
+86 INF 01/01/1970 01:07:34 <sci_ccFlow> [UNIT=1] Operation connect: 1ae81<->1aw41, Both Z motors P2H after successful, ZM=12545 YM=468272, ZF=11970 YF=406467
+87 INF 01/01/1970 01:08:01 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae81<->1aw41, Both Z motors P2H after successful, ZM=12595 YM=648721, ZF=11957 YF=316241
+88 INF 01/01/1970 01:08:32 <sci_ccFlow> [UNIT=1] Operation connect: 1ae81<->1aw80, Both Z motors P2H after successful, ZM=12549 YM=468276, ZF=11969 YF=494469
+89 INF 01/01/1970 01:08:58 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae81<->1aw80, Both Z motors P2H after successful, ZM=12607 YM=648721, ZF=11957 YF=316240
+90 INF 01/01/1970 01:09:32 <sci_ccFlow> [UNIT=1] Operation connect: 1ae130<->1aw41, Both Z motors P2H after successful, ZM=12512 YM=358277, ZF=11970 YF=406470
+91 INF 01/01/1970 01:09:59 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae130<->1aw41, Both Z motors P2H after successful, ZM=12595 YM=648720, ZF=11957 YF=316240
+92 INF 01/01/1970 01:10:32 <sci_ccFlow> [UNIT=1] Operation connect: 1ae130<->1aw80, Both Z motors P2H after successful, ZM=12512 YM=358277, ZF=11972 YF=494466
+93 INF 01/01/1970 01:10:58 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae130<->1aw80, Both Z motors P2H after successful, ZM=12607 YM=648724, ZF=11957 YF=316240
+94 INF 01/01/1970 01:11:31 <sci_ccFlow> [UNIT=1] Operation connect: 1ae100<->1aw60, Both Z motors P2H after successful, ZM=12543 YM=424272, ZF=11969 YF=450463
+95 INF 01/01/1970 01:11:57 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae100<->1aw60, Both Z motors P2H after successful, ZM=12600 YM=648722, ZF=11957 YF=316240
+96 INF 01/01/1970 01:12:30 <sci_ccFlow> [UNIT=1] Operation connect: 1ae1<->1aw81, Both Z motors P2H after successful, ZM=12583 YM=646485, ZF=11968 YF=496672
+97 INF 01/01/1970 01:12:56 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae1<->1aw81, Both Z motors P2H after successful, ZM=12605 YM=648709, ZF=11959 YF=316239
+98 INF 01/01/1970 01:13:30 <sci_ccFlow> [UNIT=1] Operation connect: 1ae1<->1aw132, Both Z motors P2H after successful, ZM=12593 YM=646483, ZF=11975 YF=611066
+99 INF 01/01/1970 01:13:58 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae1<->1aw132, Both Z motors P2H after successful, ZM=12614 YM=648706, ZF=11960 YF=316242
+100 INF 01/01/1970 01:14:30 <sci_ccFlow> [UNIT=1] Operation connect: 1ae40<->1aw81, Both Z motors P2H after successful, ZM=12562 YM=560675, ZF=11968 YF=496667
+101 INF 01/01/1970 01:14:56 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae40<->1aw81, Both Z motors P2H after successful, ZM=12605 YM=648723, ZF=11958 YF=316242
+102 INF 01/01/1970 01:15:29 <sci_ccFlow> [UNIT=1] Operation connect: 1ae40<->1aw132, Both Z motors P2H after successful, ZM=12567 YM=560674, ZF=11979 YF=611070
+103 INF 01/01/1970 01:15:57 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae40<->1aw132, Both Z motors P2H after successful, ZM=12614 YM=648719, ZF=11958 YF=316242
+104 INF 01/01/1970 01:16:29 <sci_ccFlow> [UNIT=1] Operation connect: 1ae20<->1aw100, Both Z motors P2H after successful, ZM=12567 YM=604673, ZF=11970 YF=540668
+105 INF 01/01/1970 01:16:54 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae20<->1aw100, Both Z motors P2H after successful, ZM=12609 YM=648719, ZF=11960 YF=316246
+106 INF 01/01/1970 01:17:26 <sci_ccFlow> [UNIT=1] Operation connect: 1ae41<->1aw81, Both Z motors P2H after successful, ZM=12566 YM=558476, ZF=11969 YF=496667
+107 INF 01/01/1970 01:17:52 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae41<->1aw81, Both Z motors P2H after successful, ZM=12606 YM=648722, ZF=11960 YF=316241
+108 INF 01/01/1970 01:18:39 <sci_ccFlow> [UNIT=1] Operation connect: 1ae41<->1aw132, Both Z motors P2H after successful, ZM=12570 YM=558473, ZF=11981 YF=611064
+109 INF 01/01/1970 01:19:05 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae41<->1aw132, Both Z motors P2H after successful, ZM=12615 YM=648717, ZF=11961 YF=316243
+110 INF 01/01/1970 01:19:41 <sci_ccFlow> [UNIT=1] Operation connect: 1ae80<->1aw81, Both Z motors P2H after successful, ZM=12546 YM=470471, ZF=11970 YF=496663
+111 INF 01/01/1970 01:20:08 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae80<->1aw81, Both Z motors P2H after successful, ZM=12606 YM=648719, ZF=11959 YF=316239
+112 INF 01/01/1970 01:20:40 <sci_ccFlow> [UNIT=1] Operation connect: 1ae80<->1aw132, Both Z motors P2H after successful, ZM=12547 YM=470486, ZF=11982 YF=611074
+113 INF 01/01/1970 01:21:07 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae80<->1aw132, Both Z motors P2H after successful, ZM=12615 YM=648721, ZF=11959 YF=316241
+114 INF 01/01/1970 01:21:40 <sci_ccFlow> [UNIT=1] Operation connect: 1ae60<->1aw100, Both Z motors P2H after successful, ZM=12558 YM=514473, ZF=11975 YF=540668
+115 INF 01/01/1970 01:22:06 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae60<->1aw100, Both Z motors P2H after successful, ZM=12610 YM=648719, ZF=11961 YF=316240
+116 INF 01/01/1970 01:22:37 <sci_ccFlow> [UNIT=1] Operation connect: 1ae81<->1aw81, Both Z motors P2H after successful, ZM=12549 YM=468272, ZF=11970 YF=496669
+117 INF 01/01/1970 01:23:04 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae81<->1aw81, Both Z motors P2H after successful, ZM=12607 YM=648720, ZF=11958 YF=316240
+118 INF 01/01/1970 01:23:36 <sci_ccFlow> [UNIT=1] Operation connect: 1ae81<->1aw132, Both Z motors P2H after successful, ZM=12548 YM=468271, ZF=11984 YF=611068
+119 INF 01/01/1970 01:24:03 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae81<->1aw132, Both Z motors P2H after successful, ZM=12616 YM=648720, ZF=11958 YF=316239
+120 INF 01/01/1970 01:24:36 <sci_ccFlow> [UNIT=1] Operation connect: 1ae130<->1aw81, Both Z motors P2H after successful, ZM=12512 YM=358276, ZF=11973 YF=496672
+121 INF 01/01/1970 01:25:04 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae130<->1aw81, Both Z motors P2H after successful, ZM=12608 YM=648719, ZF=11957 YF=316238
+122 INF 01/01/1970 01:25:38 <sci_ccFlow> [UNIT=1] Operation connect: 1ae130<->1aw132, Both Z motors P2H after successful, ZM=12511 YM=358274, ZF=11985 YF=611062
+123 INF 01/01/1970 01:26:05 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae130<->1aw132, Both Z motors P2H after successful, ZM=12617 YM=648719, ZF=11957 YF=316241
+124 INF 01/01/1970 01:26:36 <sci_ccFlow> [UNIT=1] Operation connect: 1ae100<->1aw100, Both Z motors P2H after successful, ZM=12545 YM=424271, ZF=11976 YF=540670
+125 INF 01/01/1970 01:27:08 <sci_dcFlow> [UNIT=1] Operation disconnect: 1ae100<->1aw100, Both Z motors P2H after successful, ZM=12610 YM=648722, ZF=11957 YF=316243
+126 INF 01/01/1970 01:28:23 <sci_ccFlow> [UNIT=1] Operation connect: 1be1<->1bw1, Both Z motors P2H after successful, ZM=12591 YM=646492, ZF=11958 YF=941302
+127 INF 01/01/1970 01:28:48 <sci_dcFlow> [UNIT=1] Operation disconnect: 1be1<->1bw1, Both Z motors P2H after successful, ZM=12602 YM=648710, ZF=11952 YF=943484
+128 INF 01/01/1970 01:29:19 <sci_ccFlow> [UNIT=1] Operation connect: 1be1<->1bw40, Both Z motors P2H after successful, ZM=12594 YM=646486, ZF=11961 YF=855475
+129 INF 01/01/1970 01:29:45 <sci_dcFlow> [UNIT=1] Operation disconnect: 1be1<->1bw40, Both Z motors P2H after successful, ZM=12611 YM=648710, ZF=11952 YF=943504
+130 INF 01/01/1970 01:30:16 <sci_ccFlow> [UNIT=1] Operation connect: 1be40<->1bw1, Both Z motors P2H after successful, ZM=12540 YM=560677, ZF=11962 YF=941302
+131 INF 01/01/1970 01:30:42 <sci_dcFlow> [UNIT=1] Operation disconnect: 1be40<->1bw1, Both Z motors P2H after successful, ZM=12603 YM=648720, ZF=11958 YF=943488
+132 INF 01/01/1970 01:31:13 <sci_ccFlow> [UNIT=1] Operation connect: 1be40<->1bw40, Both Z motors P2H after successful, ZM=12551 YM=560676, ZF=11969 YF=855480
+133 INF 01/01/1970 01:31:42 <sci_dcFlow> [UNIT=1] Operation disconnect: 1be40<->1bw40, Both Z motors P2H after successful, ZM=12612 YM=648721, ZF=11958 YF=943509
+134 INF 01/01/1970 01:32:12 <sci_ccFlow> [UNIT=1] Operation connect: 1be20<->1bw20, Both Z motors P2H after successful, ZM=12557 YM=604673, ZF=11962 YF=899474
+135 INF 01/01/1970 01:32:38 <sci_dcFlow> [UNIT=1] Operation disconnect: 1be20<->1bw20, Both Z motors P2H after successful, ZM=12609 YM=648722, ZF=11955 YF=943505
+136 INF 01/01/1970 01:33:06 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 941306, Y target encoder: 941456, step: 1, gap: 150
+137 INF 01/01/1970 01:33:09 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11296
+138 INF 01/01/1970 01:33:11 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 941459, Y target encoder: 941156, step: 2, gap: -150
+139 INF 01/01/1970 01:33:15 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11876
+140 INF 01/01/1970 01:33:18 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 941139, Y target encoder: 941606, step: 3, gap: 300
+141 INF 01/01/1970 01:33:21 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11296
+142 INF 01/01/1970 01:33:23 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 941624, Y target encoder: 941006, step: 4, gap: -300
+143 INF 01/01/1970 01:33:27 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11878
+144 ERR 01/01/1970 01:33:30 <sci_ccFlow> C:/Software/ROME/ROMERLS_1_9/TQImgBase/FLOW/acquirePayLoad.cpp  line 1515 [UNIT=1] ERROR[acquirePayLoad_putall_search]: Operation connect: 1be41<->1bw1, Failed searching parking coordinates, max iteration = 2 reached!
+145 ERR 01/01/1970 01:33:30 <sci_ccFlow> C:/Software/ROME/ROMERLS_1_9/TQImgBase/FLOW/acquirePayLoad.cpp  line 1209 [UNIT=1] Operation connect: 1be41<->1bw1, Z Female P2H failed: Before P2H layer, ZF=9890 YF=940986
+146 INF 01/01/1970 01:33:37 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11877
+147 INF 01/01/1970 01:33:40 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 943450, Y target encoder: 943644, step: 1, gap: 150
+148 INF 01/01/1970 01:33:44 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11876
+149 INF 01/01/1970 01:33:46 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 943562, Y target encoder: 943344, step: 2, gap: -150
+150 INF 01/01/1970 01:33:50 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11880
+151 INF 01/01/1970 01:33:53 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 943340, Y target encoder: 943794, step: 3, gap: 300
+152 INF 01/01/1970 01:33:56 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11304
+153 INF 01/01/1970 01:33:58 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 943818, Y target encoder: 943194, step: 4, gap: -300
+154 INF 01/01/1970 01:34:02 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11885
+155 ERR 01/01/1970 01:34:05 <sci_ccFlow> C:/Software/ROME/ROMERLS_1_9/TQImgBase/FLOW/acquirePayLoad.cpp  line 1515 [UNIT=1] ERROR[acquirePayLoad_putall_search]: Operation connect: 1be41<->1bw1, Failed searching parking coordinates, max iteration = 2 reached!
+156 ERR 01/01/1970 01:34:05 <sci_ccFlow> C:/Software/ROME/ROMERLS_1_9/TQImgBase/FLOW/acquirePayLoad.cpp  line 1209 [UNIT=1] Operation connect: 1be41<->1bw1, Z Female P2H failed: Before P2H layer, ZF=9890 YF=943192
+157 INF 01/01/1970 01:36:08 <rcvDisconn> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11876
+158 INF 01/01/1970 01:36:11 <rcvDisconn> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 943452, Y target encoder: 943662, step: 1, gap: 150
+159 INF 01/01/1970 01:36:15 <rcvDisconn> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11876
+160 INF 01/01/1970 01:36:17 <rcvDisconn> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 943535, Y target encoder: 943362, step: 2, gap: -150
+161 INF 01/01/1970 01:36:21 <rcvDisconn> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11877
+162 INF 01/01/1970 01:36:24 <rcvDisconn> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 943359, Y target encoder: 943812, step: 3, gap: 300
+163 INF 01/01/1970 01:36:27 <rcvDisconn> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11305
+164 INF 01/01/1970 01:36:29 <rcvDisconn> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 943837, Y target encoder: 943212, step: 4, gap: -300
+165 INF 01/01/1970 01:36:33 <rcvDisconn> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11883
+166 ERR 01/01/1970 01:36:36 <rcvDisconn> C:/Software/ROME/ROMERLS_1_9/TQImgBase/FLOW/acquirePayLoad.cpp  line 1515 [UNIT=1] ERROR[acquirePayLoad_putall_search]: Operation connect: 1be41<->1bw1, Failed searching parking coordinates, max iteration = 2 reached!
+167 ERR 01/01/1970 01:36:36 <rcvDisconn> C:/Software/ROME/ROMERLS_1_9/TQImgBase/FLOW/acquirePayLoad.cpp  line 1209 [UNIT=1] Operation connect: 1be41<->1bw1, Z Female P2H failed: Before P2H layer, ZF=9890 YF=943212
+168 INF 01/01/1970 01:36:47 <rcvDisconn> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11873
+169 INF 01/01/1970 01:36:49 <rcvDisconn> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 941283, Y target encoder: 941457, step: 1, gap: 150
+170 INF 01/01/1970 01:36:53 <rcvDisconn> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11872
+171 INF 01/01/1970 01:36:56 <rcvDisconn> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 941401, Y target encoder: 941157, step: 2, gap: -150
+172 INF 01/01/1970 01:37:00 <rcvDisconn> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11876
+173 INF 01/01/1970 01:37:03 <rcvDisconn> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 941136, Y target encoder: 941607, step: 3, gap: 300
+174 INF 01/01/1970 01:37:06 <rcvDisconn> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11298
+175 INF 01/01/1970 01:37:08 <rcvDisconn> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 941632, Y target encoder: 941007, step: 4, gap: -300
+176 INF 01/01/1970 01:37:12 <rcvDisconn> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11879
+177 ERR 01/01/1970 01:37:14 <rcvDisconn> C:/Software/ROME/ROMERLS_1_9/TQImgBase/FLOW/acquirePayLoad.cpp  line 1515 [UNIT=1] ERROR[acquirePayLoad_putall_search]: Operation connect: 1be41<->1bw1, Failed searching parking coordinates, max iteration = 2 reached!
+178 ERR 01/01/1970 01:37:14 <rcvDisconn> C:/Software/ROME/ROMERLS_1_9/TQImgBase/FLOW/acquirePayLoad.cpp  line 1209 [UNIT=1] Operation connect: 1be41<->1bw1, Z Female P2H failed: Before P2H layer, ZF=9890 YF=940985
+179 INF 01/01/1970 01:57:21 <rcvAlignConnectorPosition> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11302
+180 INF 01/01/1970 01:57:23 <rcvAlignConnectorPosition> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 943496, Y target encoder: 943646, step: 1, gap: 150
+181 INF 01/01/1970 01:57:26 <rcvAlignConnectorPosition> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11302
+182 INF 01/01/1970 01:57:28 <rcvAlignConnectorPosition> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 943652, Y target encoder: 943346, step: 2, gap: -150
+183 INF 01/01/1970 01:57:32 <rcvAlignConnectorPosition> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11875
+184 INF 01/01/1970 01:57:35 <rcvAlignConnectorPosition> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 943338, Y target encoder: 943796, step: 3, gap: 300
+185 INF 01/01/1970 01:57:38 <rcvAlignConnectorPosition> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11302
+186 INF 01/01/1970 01:57:40 <rcvAlignConnectorPosition> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 943811, Y target encoder: 943196, step: 4, gap: -300
+187 INF 01/01/1970 01:57:44 <rcvAlignConnectorPosition> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11877
+188 ERR 01/01/1970 01:57:47 <rcvAlignConnectorPosition> C:/Software/ROME/ROMERLS_1_9/TQImgBase/FLOW/acquirePayLoad.cpp  line 1515 [UNIT=1] ERROR[acquirePayLoad_putall_search]: Operation connect: 1be41<->1bw1, Failed searching parking coordinates, max iteration = 2 reached!
+189 ERR 01/01/1970 01:57:47 <rcvAlignConnectorPosition> C:/Software/ROME/ROMERLS_1_9/TQImgBase/FLOW/acquirePayLoad.cpp  line 1209 [UNIT=1] Operation connect: 1be41<->1bw1, Z Female P2H failed: Before P2H layer, ZF=9890 YF=943188
+190 INF 01/01/1970 01:57:55 <rcvAlignConnectorPosition> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 941286, Y target encoder: 941459, step: 1, gap: 150
+191 INF 01/01/1970 01:57:58 <rcvAlignConnectorPosition> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11299
+192 INF 01/01/1970 01:58:00 <rcvAlignConnectorPosition> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 941455, Y target encoder: 941159, step: 2, gap: -150
+193 INF 01/01/1970 01:58:04 <rcvAlignConnectorPosition> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11872
+194 INF 01/01/1970 01:58:07 <rcvAlignConnectorPosition> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 941140, Y target encoder: 941609, step: 3, gap: 300
+195 INF 01/01/1970 01:58:10 <rcvAlignConnectorPosition> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11297
+196 INF 01/01/1970 01:58:12 <rcvAlignConnectorPosition> [UNIT=1] Operation connect: 1be41<->1bw1, search side: Female, Y current encoder: 941627, Y target encoder: 941009, step: 4, gap: -300
+197 INF 01/01/1970 01:58:16 <rcvAlignConnectorPosition> [UNIT=1] Operation connect: 1be41<->1bw1, Female P2H result: Before P2H layer, Z encoder=11875
+198 ERR 01/01/1970 01:58:19 <rcvAlignConnectorPosition> C:/Software/ROME/ROMERLS_1_9/TQImgBase/FLOW/acquirePayLoad.cpp  line 1515 [UNIT=1] ERROR[acquirePayLoad_putall_search]: Operation connect: 1be41<->1bw1, Failed searching parking coordinates, max iteration = 2 reached!
+199 ERR 01/01/1970 01:58:19 <rcvAlignConnectorPosition> C:/Software/ROME/ROMERLS_1_9/TQImgBase/FLOW/acquirePayLoad.cpp  line 1209 [UNIT=1] Operation connect: 1be41<->1bw1, Z Female P2H failed: Before P2H layer, ZF=9890 YF=941020
+200 INF 01/01/1970 02:10:44 <sci_ccFlow> [UNIT=1] Operation connect: e50<->w50, Both Z motors P2H after successful, ZM=12558 YM=536467, ZF=11968 YF=428467
+201 INF 01/01/1970 02:11:10 <sci_dcFlow> [UNIT=1] Operation disconnect: e50<->w50, Both Z motors P2H after successful, ZM=12606 YM=648720, ZF=11956 YF=316240
+202 INF 01/01/1970 02:11:44 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw41, search side: Female, Y current encoder: 853282, Y target encoder: 853432, step: 1, gap: 150
+203 INF 01/01/1970 02:11:48 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw41, Female P2H result: Before P2H layer, Z encoder=11322
+204 INF 01/01/1970 02:11:50 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw41, search side: Female, Y current encoder: 853430, Y target encoder: 853132, step: 2, gap: -150
+205 INF 01/01/1970 02:11:53 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw41, Female P2H result: Before P2H layer, Z encoder=11876
+206 INF 01/01/1970 02:11:56 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw41, search side: Female, Y current encoder: 853117, Y target encoder: 853582, step: 3, gap: 300
+207 INF 01/01/1970 02:12:00 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw41, Female P2H result: Before P2H layer, Z encoder=11322
+208 INF 01/01/1970 02:12:02 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw41, search side: Female, Y current encoder: 853597, Y target encoder: 852982, step: 4, gap: -300
+209 INF 01/01/1970 02:12:06 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw41, Female P2H result: Before P2H layer, Z encoder=11884
+210 ERR 01/01/1970 02:12:08 <sci_ccFlow> C:/Software/ROME/ROMERLS_1_9/TQImgBase/FLOW/acquirePayLoad.cpp  line 1515 [UNIT=1] ERROR[acquirePayLoad_putall_search]: Operation connect: 1be41<->1bw41, Failed searching parking coordinates, max iteration = 2 reached!
+211 ERR 01/01/1970 02:12:08 <sci_ccFlow> C:/Software/ROME/ROMERLS_1_9/TQImgBase/FLOW/acquirePayLoad.cpp  line 1209 [UNIT=1] Operation connect: 1be41<->1bw41, Z Female P2H failed: Before P2H layer, ZF=9900 YF=852952
+212 INF 01/01/1970 02:16:20 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw41, Both Z motors P2H after successful, ZM=12619 YM=648724, ZF=11955 YF=943509
+213 INF 01/01/1970 02:17:12 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw100, Male P2H result: Missed connection layer, Z encoder=12631!
+214 INF 01/01/1970 02:17:20 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw100, Male P2H result: Missed connection layer, Z encoder=12631!
+215 INF 01/01/1970 02:17:28 <sci_ccFlow> [UNIT=1] Operation connect: 1be41<->1bw100, Male P2H result: Missed connection layer, Z encoder=12631!
+216 INF 01/01/1970 02:50:37 <sci_ccFlow> [UNIT=1] Operation connect: 1be40<->1bw40, Both Z motors P2H after successful, ZM=12559 YM=560677, ZF=11964 YF=855479
+217 INF 01/01/1970 02:51:10 <sci_dcFlow> [UNIT=1] Operation disconnect: 1be40<->1bw40, Both Z motors P2H after successful, ZM=12620 YM=648722, ZF=11954 YF=943506
